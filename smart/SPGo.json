@@ -1,0 +1,9 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://getsmartua.sharepoint.com/sites/SMARTacademy51JuniorFront_anshy",
+    "publishingScope": "Major",
+    "authenticationType": "Digest",
+    "remoteFolders": [
+        "/SiteAssets/**/*.*"
+    ]
+}
